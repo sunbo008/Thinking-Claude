@@ -10,7 +10,7 @@ Let Claude think comprehensively before responding!
 
 use in the normal chat with instructions selector in latest chrome extension v3.2.2:
 
-https://github.com/user-attachments/assets/b67cacf4-43a8-431c-bf0f-7c813ceb4fdb
+https://github.com/user-attachments/assets/420d124e-52fd-4755-a5c5-9f579beedf5c
 
 use in project with legacy extension:
 
