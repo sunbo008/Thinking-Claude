@@ -8,9 +8,9 @@ Let Claude think comprehensively before responding!
 
 ## Demo
 
-use in the normal chat with instructions selector in latest chrome extension v3.2.2:
+use in chat with the latest Chrome extension featured with a instruction selector:
 
-https://github.com/user-attachments/assets/420d124e-52fd-4755-a5c5-9f579beedf5c
+https://github.com/user-attachments/assets/afa0f64f-53e5-45bc-9ad8-0641b29d2b77
 
 use in project with legacy extension:
 
