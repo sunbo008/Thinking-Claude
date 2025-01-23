@@ -8,7 +8,7 @@ Let Claude think comprehensively before responding!
 
 ## Demo
 
-> It is supposed to work on both `Free` and `Pro` versions of [Claude Web App](https://claude.ai/).
+> It is supposed to work on both `Free` and `Pro` versions of [Claude Web App](https://claude.ai/) with `Claude 3.5 Sonnet` model.
 
 Here is a demo of using the latest [Thinking Cluade Chrome extension](https://github.com/richards199999/Thinking-Claude/releases/download/chrome-extension-v3.2.3/thinking-claude-chrome-extension-v3.2.3.zip) (click to download v3.2.3 ) installed in Chrome with the chat of Claude (check [Browser Extension](https://github.com/richards199999/Thinking-Claude?tab=readme-ov-file#browser-extension) for more) featured with an instruction selector:
 
