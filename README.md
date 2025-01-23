@@ -8,7 +8,7 @@ Let Claude think comprehensively before responding!
 
 ## Demo
 
-use in chat with the latest Chrome extension featured with a instruction selector:
+Here is a demo of using the latest [Thinking Cluade Chrome extension](https://github.com/richards199999/Thinking-Claude/releases/download/chrome-extension-v3.2.3/thinking-claude-chrome-extension-v3.2.3.zip) (click to download v3.2.3 ) installed in Chrome with the chat of Claude (check [Browser Extension](https://github.com/richards199999/Thinking-Claude?tab=readme-ov-file#browser-extension) for more) featured with an instruction selector:
 
 https://github.com/user-attachments/assets/afa0f64f-53e5-45bc-9ad8-0641b29d2b77
 
@@ -76,11 +76,11 @@ The browser extension makes Claude's thinking process easier to read and use! It
 
 ### 🚀 Quick Install Guide
 
-1. **Chrome Users (Recommended)**
+1. **Chrome Users (May be Outdated)**
 
    - Install directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/thinking-claude/ncjafpbbndpggfhfgjngkcimeaciahpo)
 
-2. **Manual Installation**
+2. **Manual Installation（Recommended - latest v3.2.3）**
    - Download the latest version from our [Releases Page](https://github.com/richards199999/Thinking-Claude/releases)
    - Unzip the file
    - Open Chrome and go to `chrome://extensions/`
